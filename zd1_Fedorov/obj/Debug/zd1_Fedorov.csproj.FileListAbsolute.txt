@@ -1,0 +1,7 @@
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\zd1_Fedorov\bin\Debug\zd1_Fedorov.exe.config
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\zd1_Fedorov\bin\Debug\zd1_Fedorov.exe
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\zd1_Fedorov\bin\Debug\zd1_Fedorov.pdb
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\zd1_Fedorov\obj\Debug\zd1_Fedorov.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\zd1_Fedorov\obj\Debug\zd1_Fedorov.exe
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\zd1_Fedorov\obj\Debug\zd1_Fedorov.pdb
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\zd1_Fedorov\obj\Debug\zd1_Fedorov.csproj.AssemblyReference.cache

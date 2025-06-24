@@ -1,0 +1,17 @@
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\bin\Debug\Menu.exe.config
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\bin\Debug\Menu.exe
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\bin\Debug\Menu.pdb
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\bin\Debug\zd1_Fedorov.exe
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\bin\Debug\zd2_Fedorov.exe
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\bin\Debug\zd3_Fedorov.exe
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\bin\Debug\zd1_Fedorov.pdb
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\bin\Debug\zd1_Fedorov.exe.config
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\bin\Debug\zd2_Fedorov.pdb
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\bin\Debug\zd2_Fedorov.exe.config
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\bin\Debug\zd3_Fedorov.pdb
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\bin\Debug\zd3_Fedorov.exe.config
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\obj\Debug\Menu.exe
+C:\Users\305-11\Desktop\Федоров ПР-23\Задание 1\Menu\obj\Debug\Menu.pdb
